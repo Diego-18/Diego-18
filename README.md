@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there 👋, My Name is Diego</h1>
 
 [![Twitter Badge](http://img.shields.io/badge/-@djchvz18-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/djchvz18)](https://twitter.com/djchvz18) 
-[![GitHub followers](https://img.shields.io/github/followers/Diego-18?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/Diego-18?label=Follow&style=social)](https://github.com/Diego-18/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-djchvz18-blue?style=social&logo=Instagram&link=https://www.instagram.com/djchvz18/)](https://www.instagram.com/djchvz18/)
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
