@@ -6,8 +6,8 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&layout=compact" alt="Diego-18" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-18&show_icons=true&locale=en" alt="Diego-18" /></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Diego-18" alt="Diego-18" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&layout=compact" alt="Diego-18" /></p>
 
 <h3>Work on developments:</h3>
  
