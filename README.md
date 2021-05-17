@@ -7,6 +7,10 @@
 [![Codepen Badge](https://img.shields.io/twitter/url?color=%23fff&label=codepen&logo=codepen&logoColor=%23fff&style=plastic&url=https%3A%2F%2Fcodepen.io%2Fdiego-18
 )](https://codepen.io/diego-18)
 [![GitHub followers](https://img.shields.io/github/followers/diego-18?color=%23fff&logo=Github&logoColor=%23fff&style=plastic)](https://github.com/Diego-18/?tab=follow)
+[![Facebook followers](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.facebook.com%2Fd.j.c.c.20)](https://www.facebook.com/d.j.c.c.20) 
+
+
+
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
