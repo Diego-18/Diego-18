@@ -8,8 +8,7 @@
 )](https://codepen.io/diego-18)
 [![GitHub followers](https://img.shields.io/github/followers/diego-18?color=%23fff&logo=Github&logoColor=%23fff&style=plastic)](https://github.com/Diego-18/?tab=follow)
 [![Facebook followers](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.facebook.com%2Fd.j.c.c.20)](https://www.facebook.com/d.j.c.c.20) 
-
-
+[![Hacker-rank followers](https://img.shields.io/twitter/url?color=green&label=hackerrank&logo=hackerrank&logoColor=green&style=plastic&url=https%3A%2F%2Fwww.hackerrank.com%2Fingdiegochavez18)](https://www.hackerrank.com/ingdiegochavez18) 
 
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
