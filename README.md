@@ -1,6 +1,5 @@
 <h1 align='center'>Hi there 👋, My Name is Diego</h1>
-    Hi, I'm a software developer, passionate about creating and developing web interfaces. 
-    Apart from coding my main hobbies are music and traveling.
+    Hi, I'm a software developer, passionate about creating and developing web interfaces.
 
 ## 🕵🏻 Find me
 
