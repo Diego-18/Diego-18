@@ -44,7 +44,7 @@ Among the tools and languages that I know and have come to work are:
 | --------- | --------- | --------- | --------- | --------- | --------- |
 
 ## ☕ Support
- <a href="https://www.buymeacoffee.com/buymeacoffee.com/djchavez "> 
+ <a href="https://www.buymeacoffee.com/djchavez"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/djchavez " />
  </a>
 
