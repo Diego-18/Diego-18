@@ -4,7 +4,7 @@
 ## 🕵🏻 Find me
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fdjchvz18)](https://twitter.com/djchvz18) 
-[![Instagram Badge](https://img.shields.io/twitter/url?color=%23fcaf45&label=Instagram&logo=Instagram&logoColor=%23fcaf45&style=plastic&url=https%3A%2F%2Fwww.instagram.com%2Fdjchvz18)](https://instagram.com/djchvz18) 
+[![Instagram Badge](https://img.shields.io/twitter/url?color=%23fcaf45&label=Instagram&logo=Instagram&logoColor=%23fcaf45&style=plastic&url=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/diego.chavez.dc) 
 [![Medium Badge](https://img.shields.io/twitter/url?color=%23fff&label=Medium&logo=Medium&logoColor=%23fff&style=plastic&url=https%3A%2F%2Fdiegochavez18.medium.com%2F)](https://diegochavez18.medium.com) 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=%230e76a8&label=Linkedin&logo=Linkedin&logoColor=%230e76a8&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-jose-chavez-chirinos-9a7034a6%2F)](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6/)
 [![Codepen Badge](https://img.shields.io/twitter/url?color=%23fff&label=codepen&logo=codepen&logoColor=%23fff&style=plastic&url=https%3A%2F%2Fcodepen.io%2Fdiego-18
