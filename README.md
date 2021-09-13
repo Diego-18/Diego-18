@@ -30,8 +30,8 @@ Among the tools and languages that I know and have come to work are:
 
 ### Back-End
 
-<img src="img/logos/php2.svg" alt="php" width="30" height="30"/> </br> php | <img src="img/logos/java.svg" alt="java" width="30" height="30"/></br>Java | <img src="img/logos/nodejs.svg" alt="nodejs" width="30" height="30"/></br> node JS |
-| --------- | --------- | --------- |
+<img src="img/logos/php2.svg" alt="php" width="30" height="30"/> </br> php | <img src="img/logos/nodejs.svg" alt="nodejs" width="30" height="30"/></br> node JS |
+| --------- | --------- |
 
 ### Data Base
 
