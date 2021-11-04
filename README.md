@@ -25,18 +25,23 @@ Among the tools and languages that I know and have come to work are:
 
 ### Front-End  
 
-<img src="img/logos/html5.svg" alt="html" width="30" height="30"/></br> html-5 | <img src="img/logos/css-3.svg" alt="css" width="30" height="30"/></br>CSS | <img src="img/logos/bootstrap-4.svg" alt="bootstrap" width="30" height="30"/></br> Bootstrap |  <img src="img/logos/js.svg" alt="js" width="30" height="30"/></br> Javascript | <img src="img/logos/vue.svg" alt="vue" width="30" height="30"/></br> Vue |
-| --------- | --------- | --------- |--------- |--------- |
+<img src="img/logos/html5.svg" alt="html" width="30" height="30"/></br> html-5 | <img src="img/logos/css-3.svg" alt="css" width="30" height="30"/></br>CSS | <img src="img/logos/jquery.svg" alt="jquery" width="30" height="30"/></br> jQuery | <img src="img/logos/bootstrap-4.svg" alt="bootstrap" width="30" height="30"/></br> Bootstrap |  <img src="img/logos/js.svg" alt="js" width="30" height="30"/></br> Javascript | <img src="img/logos/vue.svg" alt="vue" width="30" height="30"/></br> Vue |<img src="img/logos/angular.svg" alt="angular" width="30" height="30"/></br> Angular |
+| --------- | --------- | --------- |--------- |--------- |--------- |--------- |
 
 ### Back-End
 
-<img src="img/logos/php2.svg" alt="php" width="30" height="30"/> </br> php | <img src="img/logos/nodejs.svg" alt="nodejs" width="30" height="30"/></br> node JS |
-| --------- | --------- |
+<img src="img/logos/php2.svg" alt="php" width="30" height="30"/> </br> php | <img src="img/logos/laravel.svg" alt="php" width="30" height="30"/> </br> Laravel | <img src="img/logos/nodejs.svg" alt="nodejs" width="30" height="30"/></br> node JS |
+| --------- | --------- |--------- |
 
 ### Data Base
 
 <img src="img/logos/mysql.svg" alt="mysql" width="30" height="30"/> </br> MySQL | <img src="img/logos/postgresql.svg" alt="postgres" width="30" height="30"/></br>PostgreSQL |
 | --------- | --------- |
+
+### Mobile
+
+<img src="img/logos/ionic.svg" alt="ionic" width="30" height="30"/> </br> ionic |
+| --------- |
 
 ### Tools
 
