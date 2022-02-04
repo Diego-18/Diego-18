@@ -1,68 +1,68 @@
 <h1 align='center'>Hi there 👋, My Name is Diego</h1>
     Hi, I'm a software developer, passionate about creating and developing web interfaces.
-
+    
 ## 🕵🏻 Find me
 
-[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fdjchvz18)](https://twitter.com/djchvz18) 
-[![Instagram Badge](https://img.shields.io/twitter/url?color=%23fcaf45&label=Instagram&logo=Instagram&logoColor=%23fcaf45&style=plastic&url=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/diego.chavez.dc) 
-[![Medium Badge](https://img.shields.io/twitter/url?color=%23fff&label=Medium&logo=Medium&logoColor=%23fff&style=plastic&url=https%3A%2F%2Fdiegochavez18.medium.com%2F)](https://diegochavez18.medium.com) 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=%230e76a8&label=Linkedin&logo=Linkedin&logoColor=%230e76a8&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-jose-chavez-chirinos-9a7034a6%2F)](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6/)
-[![Codepen Badge](https://img.shields.io/twitter/url?color=%23fff&label=codepen&logo=codepen&logoColor=%23fff&style=plastic&url=https%3A%2F%2Fcodepen.io%2Fdiego-18
-        )](https://codepen.io/diego-18)
-[![GitHub followers](https://img.shields.io/github/followers/diego-18?color=%23fff&logo=Github&logoColor=%23fff&style=plastic)](https://github.com/Diego-18/?tab=follow)
-[![Facebook followers](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.facebook.com%2Fd.j.c.c.20)](https://www.facebook.com/d.j.c.c.20) 
-[![Hacker-rank followers](https://img.shields.io/twitter/url?color=green&label=hackerrank&logo=hackerrank&logoColor=green&style=plastic&url=https%3A%2F%2Fwww.hackerrank.com%2Fingdiegochavez18)](https://www.hackerrank.com/ingdiegochavez18) 
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://diegochavez-dc.medium.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6/)
+[![Twitter](https://img.shields.io/badge/djchvz18-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/djchvz18)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.j.c.c.20)
+[![Instagram](https://img.shields.io/badge/diego.chavez.dc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diego.chavez.dc) 
+[![TikTok](https://img.shields.io/badge/diegochavez8104-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@diegochavez8104)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/diego-18)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ingdiegochavez18)
+    
 ## 🏆 Github Profile 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Diego-18" alt="Diego-18" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&layout=compact" alt="Diego-18" />
-
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Diego-18" alt="Diego-18" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&layout=compact" alt="Diego-18" />
+    </a>
+</p>
+    
 ## 👨‍💻 Work on developments
 
 Among the tools and languages that I know and have come to work are:
 
 ### Front-End  
 
-<img src="img/logos/html5.svg" alt="html" width="30" height="30"/></br> html-5 | <img src="img/logos/css-3.svg" alt="css" width="30" height="30"/></br>CSS | <img src="img/logos/jquery.svg" alt="jquery" width="30" height="30"/></br> jQuery | <img src="img/logos/bootstrap-4.svg" alt="bootstrap" width="30" height="30"/></br> Bootstrap |  <img src="img/logos/js.svg" alt="js" width="30" height="30"/></br> Javascript | <img src="img/logos/vue.svg" alt="vue" width="30" height="30"/></br> Vue |<img src="img/logos/angular.svg" alt="angular" width="30" height="30"/></br> Angular |
-| --------- | --------- | --------- |--------- |--------- |--------- |--------- |
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Back-End
 
-<img src="img/logos/php2.svg" alt="php" width="30" height="30"/> </br> php | <img src="img/logos/laravel.svg" alt="php" width="30" height="30"/> </br> Laravel | <img src="img/logos/nodejs.svg" alt="nodejs" width="30" height="30"/></br> node JS |
-| --------- | --------- |--------- |
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Data Base
 
-<img src="img/logos/mysql.svg" alt="mysql" width="30" height="30"/> </br> MySQL | <img src="img/logos/postgresql.svg" alt="postgres" width="30" height="30"/></br>PostgreSQL |
-| --------- | --------- |
-
-### Mobile
-
-<img src="img/logos/ionic.svg" alt="ionic" width="30" height="30"/> </br> ionic |
-| --------- |
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 
-<img src="img/logos/git.svg" alt="git" width="30" height="30"/> </br> Git | <img src="img/logos/visualstudio_code.svg" alt="vsc" width="30" height="30"/></br>VS Code | <img src="img/logos/npm.svg" alt="npm" width="30" height="30"/></br> npm |<img src="img/logos/postman.svg" alt="postman" width="30" height="30"/> </br> postman | <img src="img/logos/yarn.svg" alt="yarn" width="30" height="30"/></br>yarn | <img src="img/logos/docker.svg" alt="docker" width="30" height="30"/></br> docker |
-| --------- | --------- | --------- | --------- | --------- | --------- |
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+### Deploy
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
 
 ## ☕ Support
  <a href="https://www.buymeacoffee.com/djchavez"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/djchavez " />
  </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
