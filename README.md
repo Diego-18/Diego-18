@@ -7,7 +7,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://diegochavez-dc.medium.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6/)
-[![Twitter](https://img.shields.io/badge/djchvz18-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/djchvz18)
+[![Twitter](https://img.shields.io/badge/diego_chavez_dc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/diego_chavez_dc)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.j.c.c.20)
 [![Instagram](https://img.shields.io/badge/diego.chavez.dc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diego.chavez.dc) 
 [![TikTok](https://img.shields.io/badge/diegochavez8104-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@diegochavez8104)
