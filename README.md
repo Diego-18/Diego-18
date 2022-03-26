@@ -16,7 +16,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
     
 ## 🏆 Github Profile 
-<p>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
