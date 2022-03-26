@@ -13,12 +13,13 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 [![TikTok](https://img.shields.io/badge/diegochavez8104-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@diegochavez8104)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/diego-18)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ingdiegochavez18)
+
     
 ## 🏆 Github Profile 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Diego-18" alt="Diego-18" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&layout=compact" alt="Diego-18" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
     </a>
 </p>
     
