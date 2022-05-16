@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://diegochavez-dc.com">
+    <a href="https://diegochavez-dc.com" target="__blank">
         <img src="img/logos/DC.jpg" with="100" height="100">
     </a>
 </p>
