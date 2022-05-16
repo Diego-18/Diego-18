@@ -1,0 +1,18 @@
+name: Latest Youtube workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Youtube Videos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: 'YT'
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmEibejCVRl39zJyjsWlXdA"
