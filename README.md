@@ -77,6 +77,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📹​​ Last Videos
 <!-- YT:START -->
+- [Solucionar el bloqueo de CORS en nuestro servidor de Node.js.](https://www.youtube.com/watch?v=6hh-n_h2iCo)
+- [Habilitar conexión de php + postgreSQL](https://www.youtube.com/watch?v=PzNWkVm_Fmw)
+- [Herramienta para ver disponibilidad de nombre de dominio, comunidades y marca personal.](https://www.youtube.com/watch?v=lmyEr5kWqOg)
+- [Navegador para trabajar con Responsive Design](https://www.youtube.com/watch?v=eetjp-xQ1iY)
+- [Ramas de la programación en la que te puedes dedicar 💻](https://www.youtube.com/watch?v=oiZ0cvD8cek)
 <!-- YT:END -->
 
 ## ☕ Support
