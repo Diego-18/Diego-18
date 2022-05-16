@@ -80,17 +80,17 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Usar variables de entorno en NodeJS](https://diegochavez-dc.medium.com/usar-variables-de-entorno-en-nodejs-60fa76ceaee6?source=rss-76dafd37da4d------2)
 - [Solucionar el bloqueo de CORS en Laravel](https://diegochavez-dc.medium.com/solucionar-el-bloqueo-de-cors-en-laravel-5cea0997b60e?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
-[➡️​ More blog Posts][medium]
+
+<p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
-<!-- YT:START -->
-- [Solucionar el bloqueo de CORS en nuestro servidor de Node.js.](https://www.youtube.com/watch?v=6hh-n_h2iCo)
-- [Habilitar conexión de php + postgreSQL](https://www.youtube.com/watch?v=PzNWkVm_Fmw)
-- [Herramienta para ver disponibilidad de nombre de dominio, comunidades y marca personal.](https://www.youtube.com/watch?v=lmyEr5kWqOg)
-- [Navegador para trabajar con Responsive Design](https://www.youtube.com/watch?v=eetjp-xQ1iY)
-- [Ramas de la programación en la que te puedes dedicar 💻](https://www.youtube.com/watch?v=oiZ0cvD8cek)
-<!-- YT:END -->
-[➡️​ More Videos][youtube]
+
+<table>
+    <tr>
+        <!-- YT:START --><td><a href="https://www.youtube.com/watch?v=6hh-n_h2iCo"><img src="https://i.ytimg.com/vi/6hh-n_h2iCo/mqdefault.jpg"></a><br/> 📅​ Apr 12, 2022</td><td><a href="https://www.youtube.com/watch?v=PzNWkVm_Fmw"><img src="https://i.ytimg.com/vi/PzNWkVm_Fmw/mqdefault.jpg"></a><br/> 📅​ Mar 21, 2022</td><td><a href="https://www.youtube.com/watch?v=lmyEr5kWqOg"><img src="https://i.ytimg.com/vi/lmyEr5kWqOg/mqdefault.jpg"></a><br/> 📅​ Mar 2, 2022</td><td><a href="https://www.youtube.com/watch?v=eetjp-xQ1iY"><img src="https://i.ytimg.com/vi/eetjp-xQ1iY/mqdefault.jpg"></a><br/> 📅​ Mar 1, 2022</td><!-- YT:END -->
+    </tr>
+</table>
+<p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
 ----
 

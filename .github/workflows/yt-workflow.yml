@@ -16,3 +16,14 @@ jobs:
         with:
           comment_tag_name: 'YT'
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmEibejCVRl39zJyjsWlXdA"
+          custom_tags: "videoId/yt:videoId/"
+          max_post_count: 4
+          date_format: "mmm d, yyyy"
+          template: '<td>
+                        <a href="$url">
+                          <img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+                        </a>
+                        <br/>
+                        📅​ $date
+                      </td>'
+          committer_email: "ingdiegochavez18@gmail.com"
