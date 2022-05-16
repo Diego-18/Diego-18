@@ -84,13 +84,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
-<!-- YT:START --><td style="width:50%"><a href="https://www.youtube.com/watch?v=6hh-n_h2iCo"><img width="50%" src="https://i.ytimg.com/vi/6hh-n_h2iCo/mqdefault.jpg"></a>
- Apr 12, 2022</td><td style="width:50%"><a href="https://www.youtube.com/watch?v=PzNWkVm_Fmw"><img width="50%" src="https://i.ytimg.com/vi/PzNWkVm_Fmw/mqdefault.jpg"></a>
- Mar 21, 2022</td><td style="width:50%"><a href="https://www.youtube.com/watch?v=lmyEr5kWqOg"><img width="50%" src="https://i.ytimg.com/vi/lmyEr5kWqOg/mqdefault.jpg"></a>
- Mar 2, 2022</td><td style="width:50%"><a href="https://www.youtube.com/watch?v=eetjp-xQ1iY"><img width="50%" src="https://i.ytimg.com/vi/eetjp-xQ1iY/mqdefault.jpg"></a>
- Mar 1, 2022</td><td style="width:50%"><a href="https://www.youtube.com/watch?v=oiZ0cvD8cek"><img width="50%" src="https://i.ytimg.com/vi/oiZ0cvD8cek/mqdefault.jpg"></a>
- Feb 28, 2022</td><td style="width:50%"><a href="https://www.youtube.com/watch?v=RN9rIYNjIsg"><img width="50%" src="https://i.ytimg.com/vi/RN9rIYNjIsg/mqdefault.jpg"></a>
- Feb 13, 2022</td><!-- YT:END -->
+<!-- YT:START --><td style="width:50%"><a href="https://www.youtube.com/watch?v=6hh-n_h2iCo"><img width="50%" src="https://i.ytimg.com/vi/6hh-n_h2iCo/mqdefault.jpg"></a></td><td style="width:50%"><a href="https://www.youtube.com/watch?v=PzNWkVm_Fmw"><img width="50%" src="https://i.ytimg.com/vi/PzNWkVm_Fmw/mqdefault.jpg"></a></td><td style="width:50%"><a href="https://www.youtube.com/watch?v=lmyEr5kWqOg"><img width="50%" src="https://i.ytimg.com/vi/lmyEr5kWqOg/mqdefault.jpg"></a></td><td style="width:50%"><a href="https://www.youtube.com/watch?v=eetjp-xQ1iY"><img width="50%" src="https://i.ytimg.com/vi/eetjp-xQ1iY/mqdefault.jpg"></a></td><td style="width:50%"><a href="https://www.youtube.com/watch?v=oiZ0cvD8cek"><img width="50%" src="https://i.ytimg.com/vi/oiZ0cvD8cek/mqdefault.jpg"></a></td><td style="width:50%"><a href="https://www.youtube.com/watch?v=RN9rIYNjIsg"><img width="50%" src="https://i.ytimg.com/vi/RN9rIYNjIsg/mqdefault.jpg"></a></td><!-- YT:END -->
 
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
