@@ -4,7 +4,7 @@
 Hi 👋, I'm a software developer, passionate about creating and developing web interfaces.
 
 ## 🕵🏻 Find me
-<!-- [linkedin] -->
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-t[linkedin]he-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
@@ -65,6 +65,10 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)][heroku]
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)][netlify]
+
+### 📚​ Last Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## ☕ Support
 
