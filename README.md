@@ -84,13 +84,19 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
-<!-- YT:START -->
-[![Solucionar el bloqueo de CORS en nuestro servidor de Node.js.](https://freshidea.com/jonah/app/youtube-card/?id=6hh-n_h2iCo)](https://www.youtube.com/watch?v=6hh-n_h2iCo "Solucionar el bloqueo de CORS en nuestro servidor de Node.js.")
-[![Habilitar conexión de php + postgreSQL](https://freshidea.com/jonah/app/youtube-card/?id=PzNWkVm_Fmw)](https://www.youtube.com/watch?v=PzNWkVm_Fmw "Habilitar conexión de php + postgreSQL")
-[![Herramienta para ver disponibilidad de nombre de dominio, comunidades y marca personal.](https://freshidea.com/jonah/app/youtube-card/?id=lmyEr5kWqOg)](https://www.youtube.com/watch?v=lmyEr5kWqOg "Herramienta para ver disponibilidad de nombre de dominio, comunidades y marca personal.")
-[![Navegador para trabajar con Responsive Design](https://freshidea.com/jonah/app/youtube-card/?id=eetjp-xQ1iY)](https://www.youtube.com/watch?v=eetjp-xQ1iY "Navegador para trabajar con Responsive Design")
-[![Ramas de la programación en la que te puedes dedicar 💻](https://freshidea.com/jonah/app/youtube-card/?id=oiZ0cvD8cek)](https://www.youtube.com/watch?v=oiZ0cvD8cek "Ramas de la programación en la que te puedes dedicar 💻")
-[![Generar una Fake-API con JSON-Server](https://freshidea.com/jonah/app/youtube-card/?id=RN9rIYNjIsg)](https://www.youtube.com/watch?v=RN9rIYNjIsg "Generar una Fake-API con JSON-Server")<!-- YT:END -->
+<!-- YT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6hh-n_h2iCo"><img width="140px" src="https://i.ytimg.com/vi/6hh-n_h2iCo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6hh-n_h2iCo">Solucionar el bloqueo de CORS en nuestro servidor de Node.js.</a><br/>Apr 12, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PzNWkVm_Fmw"><img width="140px" src="https://i.ytimg.com/vi/PzNWkVm_Fmw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PzNWkVm_Fmw">Habilitar conexión de php + postgreSQL</a><br/>Mar 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lmyEr5kWqOg"><img width="140px" src="https://i.ytimg.com/vi/lmyEr5kWqOg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lmyEr5kWqOg">Herramienta para ver disponibilidad de nombre de dominio, comunidades y marca personal.</a><br/>Mar 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eetjp-xQ1iY"><img width="140px" src="https://i.ytimg.com/vi/eetjp-xQ1iY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eetjp-xQ1iY">Navegador para trabajar con Responsive Design</a><br/>Mar 1, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oiZ0cvD8cek"><img width="140px" src="https://i.ytimg.com/vi/oiZ0cvD8cek/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oiZ0cvD8cek">Ramas de la programación en la que te puedes dedicar 💻</a><br/>Feb 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RN9rIYNjIsg"><img width="140px" src="https://i.ytimg.com/vi/RN9rIYNjIsg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RN9rIYNjIsg">Generar una Fake-API con JSON-Server</a><br/>Feb 13, 2022</td></tr></table>
+<!-- YT:END -->
 
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
