@@ -5,7 +5,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ## 🕵🏻 Find me
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-t[linkedin]he-badge&logo=medium&logoColor=white)][medium]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
@@ -85,6 +85,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 <!-- YT:END -->
 
 ### 🎧​ Spotify Playing
+
 [![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
 
 ## ☕ Support
