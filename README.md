@@ -84,6 +84,9 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Ramas de la programación en la que te puedes dedicar 💻](https://www.youtube.com/watch?v=oiZ0cvD8cek)
 <!-- YT:END -->
 
+### 🎧​ Spotify Playing
+[![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
+
 ## ☕ Support
 
  <a href="https://www.buymeacoffee.com/djchavez">
