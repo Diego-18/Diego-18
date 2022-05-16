@@ -80,7 +80,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Usar variables de entorno en NodeJS](https://diegochavez-dc.medium.com/usar-variables-de-entorno-en-nodejs-60fa76ceaee6?source=rss-76dafd37da4d------2)
 - [Solucionar el bloqueo de CORS en Laravel](https://diegochavez-dc.medium.com/solucionar-el-bloqueo-de-cors-en-laravel-5cea0997b60e?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
-[➡️​ More blog Posts][medium]
+
+<p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
 <!-- YT:START -->
@@ -90,7 +91,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Navegador para trabajar con Responsive Design](https://www.youtube.com/watch?v=eetjp-xQ1iY)
 - [Ramas de la programación en la que te puedes dedicar 💻](https://www.youtube.com/watch?v=oiZ0cvD8cek)
 <!-- YT:END -->
-[➡️​ More Videos][youtube]
+
+<p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
 ----
 
