@@ -19,5 +19,5 @@ jobs:
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
           date_format: "mmm d, yyyy"
-          template: '<table style="width:100%"><tr><td><a href="$url"><img width="50%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img width="50%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>$date</td></tr></table>$newline'
           committer_email: "ingdiegochavez18@gmail.com"
