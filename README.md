@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center"> -->
     [<img src="img/logos/DC.jpg" with="100" height="100">][website]
-</p>
+<!-- </p> -->
 Hi 👋, I'm a software developer, passionate about creating and developing web interfaces.
 
 ## 🕵🏻 Find me
