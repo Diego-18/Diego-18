@@ -14,6 +14,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 
+----
+
 ## 🏆 Github Stats
 
 <p align="center">
@@ -22,6 +24,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
     </a>
 </p>
+
+----
 
 ## 🎯​Principal Stack
 
@@ -66,6 +70,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)][heroku]
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)][netlify]
 
+----
+
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
 - [Como solucionar el problema de initramfs en Linux.](https://diegochavez-dc.medium.com/como-solucionar-el-problema-de-initramfs-en-linux-699a0c5623a3?source=rss-76dafd37da4d------2)
@@ -74,6 +80,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Usar variables de entorno en NodeJS](https://diegochavez-dc.medium.com/usar-variables-de-entorno-en-nodejs-60fa76ceaee6?source=rss-76dafd37da4d------2)
 - [Solucionar el bloqueo de CORS en Laravel](https://diegochavez-dc.medium.com/solucionar-el-bloqueo-de-cors-en-laravel-5cea0997b60e?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
+[➡️​ More blog Posts][medium]
 
 ### 📹​​ Last Videos
 <!-- YT:START -->
@@ -83,10 +90,15 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 - [Navegador para trabajar con Responsive Design](https://www.youtube.com/watch?v=eetjp-xQ1iY)
 - [Ramas de la programación en la que te puedes dedicar 💻](https://www.youtube.com/watch?v=oiZ0cvD8cek)
 <!-- YT:END -->
+[➡️​ More Videos][youtube]
+
+----
 
 ### 🎧​ Spotify Playing
 
 [![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
+
+----
 
 ## ☕ Support
 
