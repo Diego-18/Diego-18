@@ -68,6 +68,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
+- [Como solucionar el problema de initramfs en Linux.](https://diegochavez-dc.medium.com/como-solucionar-el-problema-de-initramfs-en-linux-699a0c5623a3?source=rss-76dafd37da4d------2)
+- [Personalización de Linux Mint parecido a Mac OS](https://diegochavez-dc.medium.com/personalizaci%C3%B3n-de-linux-mint-parecido-a-mac-os-6e3678f24706?source=rss-76dafd37da4d------2)
+- [Crear conexión en Navicat con un contenedor de MySQL en Docker](https://diegochavez-dc.medium.com/crear-conexi%C3%B3n-en-navicat-con-un-contenedor-de-mysql-en-docker-7f01ee8d13ae?source=rss-76dafd37da4d------2)
+- [Usar variables de entorno en NodeJS](https://diegochavez-dc.medium.com/usar-variables-de-entorno-en-nodejs-60fa76ceaee6?source=rss-76dafd37da4d------2)
+- [Solucionar el bloqueo de CORS en Laravel](https://diegochavez-dc.medium.com/solucionar-el-bloqueo-de-cors-en-laravel-5cea0997b60e?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ☕ Support
