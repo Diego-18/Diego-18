@@ -77,11 +77,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
+- [Primeros pasos con Laravel](https://diegochavez-dc.medium.com/primeros-pasos-con-laravel-bec213cc653?source=rss-76dafd37da4d------2)
 - [Métodos para centrar elementos en CSS &lpar;Parte 1&rpar;](https://diegochavez-dc.medium.com/m%C3%A9todos-para-centrar-elementos-en-css-parte-1-587ec342a5ab?source=rss-76dafd37da4d------2)
 - [¿Como crear credenciales de autorización de clientes OAuth para enlazar nuestra app con información…](https://diegochavez-dc.medium.com/como-crear-credenciales-de-autorizaci%C3%B3n-de-clientes-oauth-para-enlazar-nuestra-app-con-informaci%C3%B3n-53397559c501?source=rss-76dafd37da4d------2)
 - [¿Es posible tener múltiples versiones de PHP en un equipo?](https://diegochavez-dc.medium.com/es-posible-tener-m%C3%BAltiples-versiones-de-php-en-un-equipo-93e65704d995?source=rss-76dafd37da4d------2)
 - [Recomendaciones para actualizar las dependencias de tus proyectos con NPM](https://diegochavez-dc.medium.com/recomendaciones-para-actualizar-las-dependencias-de-tus-proyectos-con-npm-db43c755d27e?source=rss-76dafd37da4d------2)
-- [Como solucionar el problema de initramfs en Linux.](https://diegochavez-dc.medium.com/como-solucionar-el-problema-de-initramfs-en-linux-699a0c5623a3?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
