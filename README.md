@@ -77,11 +77,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
+- [Como implementar Vue-Debounce en un proyecto con NuxtJS y Vue](https://diegochavez-dc.medium.com/como-implementar-vue-debounce-en-un-proyecto-con-nuxtjs-y-vue-dd0e183094fa?source=rss-76dafd37da4d------2)
 - [Validación de fecha en formato MM/YYYY en Javascript Nativo](https://diegochavez-dc.medium.com/validaci%C3%B3n-de-fecha-en-formato-mm-yyyy-en-javascript-nativo-4ed023f3cbef?source=rss-76dafd37da4d------2)
 - [Crear primera aplicación con Go y Fiber](https://diegochavez-dc.medium.com/crear-primera-aplicaci%C3%B3n-con-go-y-fiber-4e85898bd0a3?source=rss-76dafd37da4d------2)
 - [Primeros pasos con Golang](https://diegochavez-dc.medium.com/primeros-pasos-con-golang-b3e987c4c435?source=rss-76dafd37da4d------2)
 - [Primeros pasos con Laravel](https://diegochavez-dc.medium.com/primeros-pasos-con-laravel-bec213cc653?source=rss-76dafd37da4d------2)
-- [Métodos para centrar elementos en CSS &lpar;Parte 1&rpar;](https://diegochavez-dc.medium.com/m%C3%A9todos-para-centrar-elementos-en-css-parte-1-587ec342a5ab?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
