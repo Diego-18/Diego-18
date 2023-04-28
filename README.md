@@ -5,8 +5,7 @@
 </p>
 Hi 👋, I'm a software engineer, passionate about creating and developing web interfaces.
 
-## 🏆 Github Stats
-
+### 🏆 Github Stats
 ----
 
 <p align="center">
@@ -16,7 +15,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
     </a>
 </p>
 
-## 🎯​Principal Stack
+### 🎯​Principal Stack
 ----
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)][node]
@@ -100,7 +99,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 </table>
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
-## 🕵🏻 Find me
+### 🕵🏻 Contact me
 ----
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
