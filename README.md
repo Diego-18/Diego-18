@@ -3,18 +3,38 @@
         <img src="img/logos/DC.jpg" with="100" height="100">
     </a>
 </p>
-Hi 👋, I'm a software engineer, passionate about creating and developing web interfaces.
+
+```shell
+ {
+   “role” : “Software Engineer | Web Developer”,
+ }
+```
 
 ### 🏆 Github Stats
 
 ---
 
-<p align="center">
+<table>
+  <tr>
+    <td valign="top">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
+        </a>
+    </td>
+    <td valign="top">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
+        </a>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
     </a>
-</p>
+</p> -->
 
 ### 🎯​Principal Stack
 
@@ -102,7 +122,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 </table>
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
-### 🕵🏻 Contact me
+### Connect with me
 
 ---
 
@@ -115,7 +135,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 
-### 🎧​ Spotify Playing
+### 🎧​ I love music! | Spotify Playing
 
 ---
 
