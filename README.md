@@ -6,7 +6,8 @@
 Hi 👋, I'm a software engineer, passionate about creating and developing web interfaces.
 
 ### 🏆 Github Stats
-----
+
+---
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -61,7 +62,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)][apache]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][linux]
 
-### Work Environment:
+### Work Environment
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][git]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
@@ -76,20 +77,23 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)][sonarqube]
 
 ### 📚​ Last Posts
-----
+
+---
 
 <!-- BLOG-POST-LIST:START -->
-- [Como implementar Vue-Debounce en un proyecto con NuxtJS y Vue](https://diegochavez-dc.medium.com/como-implementar-vue-debounce-en-un-proyecto-con-nuxtjs-y-vue-dd0e183094fa?source=rss-76dafd37da4d------2)
-- [Validación de fecha en formato MM/YYYY en Javascript Nativo](https://diegochavez-dc.medium.com/validaci%C3%B3n-de-fecha-en-formato-mm-yyyy-en-javascript-nativo-4ed023f3cbef?source=rss-76dafd37da4d------2)
-- [Crear primera aplicación con Go y Fiber](https://diegochavez-dc.medium.com/crear-primera-aplicaci%C3%B3n-con-go-y-fiber-4e85898bd0a3?source=rss-76dafd37da4d------2)
-- [Primeros pasos con Golang](https://diegochavez-dc.medium.com/primeros-pasos-con-golang-b3e987c4c435?source=rss-76dafd37da4d------2)
-- [Primeros pasos con Laravel](https://diegochavez-dc.medium.com/primeros-pasos-con-laravel-bec213cc653?source=rss-76dafd37da4d------2)
+
+-   [Como implementar Vue-Debounce en un proyecto con NuxtJS y Vue](https://diegochavez-dc.medium.com/como-implementar-vue-debounce-en-un-proyecto-con-nuxtjs-y-vue-dd0e183094fa?source=rss-76dafd37da4d------2)
+-   [Validación de fecha en formato MM/YYYY en Javascript Nativo](https://diegochavez-dc.medium.com/validaci%C3%B3n-de-fecha-en-formato-mm-yyyy-en-javascript-nativo-4ed023f3cbef?source=rss-76dafd37da4d------2)
+-   [Crear primera aplicación con Go y Fiber](https://diegochavez-dc.medium.com/crear-primera-aplicaci%C3%B3n-con-go-y-fiber-4e85898bd0a3?source=rss-76dafd37da4d------2)
+-   [Primeros pasos con Golang](https://diegochavez-dc.medium.com/primeros-pasos-con-golang-b3e987c4c435?source=rss-76dafd37da4d------2)
+-   [Primeros pasos con Laravel](https://diegochavez-dc.medium.com/primeros-pasos-con-laravel-bec213cc653?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
-----
+
+---
 
 <table>
     <tr>
@@ -99,7 +103,8 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
 ### 🕵🏻 Contact me
-----
+
+---
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
@@ -109,14 +114,13 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
-----
 
 ### 🎧​ Spotify Playing
-----
+
+---
 
 [![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
 
-[website]: https://wwww.diegochavez-dc.com
 [medium]: https://diegochavez-dc.medium.com
 [linkedin]: https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6
 [twitter]: https://twitter.com/diego_chavez_dc
@@ -127,18 +131,17 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [youtube]: https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA
 
 <!--    Technologies     -->
+
 [node]: https://nodejs.org/
 [express]: https://expressjs.com/
 [react]: https://reactjs.org/
 [mysql]: https://www.mysql.com/
 [html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
-[jquery]: https://jquery.com/
 [bootstrap]: https://getbootstrap.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [vue]: https://vuejs.org/
 [typescript]: https://www.typescriptlang.org/
-[nestjs]: https://nestjs.com/
 [php]: https://www.php.net/
 [laravel]: https://laravel.com/
 [postgres]: https://www.postgresql.org/
