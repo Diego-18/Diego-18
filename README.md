@@ -3,21 +3,11 @@
         <img src="img/logos/DC.jpg" with="100" height="100">
     </a>
 </p>
-Hi 👋, I'm a software developer, passionate about creating and developing web interfaces.
-
-## 🕵🏻 Find me
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
-----
+Hi 👋, I'm a software engineer, passionate about creating and developing web interfaces.
 
 ## 🏆 Github Stats
+
+----
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,9 +16,8 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
     </a>
 </p>
 
-----
-
 ## 🎯​Principal Stack
+----
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)][node]
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)][express]
@@ -88,9 +77,9 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][eslint]
 [![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)][sonarqube]
 
+### 📚​ Last Posts
 ----
 
-### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
 - [Como implementar Vue-Debounce en un proyecto con NuxtJS y Vue](https://diegochavez-dc.medium.com/como-implementar-vue-debounce-en-un-proyecto-con-nuxtjs-y-vue-dd0e183094fa?source=rss-76dafd37da4d------2)
 - [Validación de fecha en formato MM/YYYY en Javascript Nativo](https://diegochavez-dc.medium.com/validaci%C3%B3n-de-fecha-en-formato-mm-yyyy-en-javascript-nativo-4ed023f3cbef?source=rss-76dafd37da4d------2)
@@ -102,6 +91,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ### 📹​​ Last Videos
+----
 
 <table>
     <tr>
@@ -110,19 +100,23 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 </table>
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
+## 🕵🏻 Find me
+----
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 ----
 
 ### 🎧​ Spotify Playing
-
-[![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
-
 ----
 
-
- <!--## ☕ Support
- <a href="https://www.buymeacoffee.com/djchavez">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/djchavez " />
- </a> -->
+[![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
 
 [website]: https://wwww.diegochavez-dc.com
 [medium]: https://diegochavez-dc.medium.com
