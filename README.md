@@ -3,7 +3,12 @@
         <img src="img/logos/DC.jpg" with="100" height="100">
     </a>
 </p>
-Hi 👋, I'm a software engineer, passionate about creating and developing web interfaces.
+
+```shell
+ {
+   “role” : “Software Engineer | Web Developer”,
+ }
+```
 
 ### 🏆 Github Stats
 
@@ -102,7 +107,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 </table>
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
-### 🕵🏻 Contact me
+### Connect with me
 
 ---
 
@@ -115,7 +120,7 @@ Hi 👋, I'm a software engineer, passionate about creating and developing web i
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 
-### 🎧​ Spotify Playing
+### 🎧​ I love music! | Spotify Playing
 
 ---
 
