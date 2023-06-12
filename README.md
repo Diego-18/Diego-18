@@ -101,11 +101,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [LoopBack 4: framework de NodeJS](https://diegochavez-dc.medium.com/loopback-4-framework-de-nodejs-45988147a96b?source=rss-76dafd37da4d------2)
 - [Laravel Telescope, herramienta para monitoreo de proyectos](https://diegochavez-dc.medium.com/laravel-telescope-herramienta-para-monitoreo-de-proyectos-59146609765e?source=rss-76dafd37da4d------2)
 - [Repository: patrón de diseño para Laravel.](https://diegochavez-dc.medium.com/repository-patr%C3%B3n-de-dise%C3%B1o-para-laravel-d4c8b2985b6d?source=rss-76dafd37da4d------2)
 - [Active Record: patrón de diseño en Laravel.](https://diegochavez-dc.medium.com/active-record-patr%C3%B3n-de-dise%C3%B1o-en-laravel-1236dc550c94?source=rss-76dafd37da4d------2)
 - [Error “CSRF token mismatch” en una ruta que no necesita autorización de token.](https://diegochavez-dc.medium.com/error-csrf-token-mismatch-en-una-ruta-que-no-necesita-autorizaci%C3%B3n-de-token-e3b62f0d83a6?source=rss-76dafd37da4d------2)
-- [¿QUÉ SON LAS KEYS EN LOS PROYECTOS DE LARAVEL Y COMO GENERARLOS?](https://diegochavez-dc.medium.com/qu%C3%A9-son-los-keys-en-los-proyectos-de-laravel-y-como-generarlos-4693058f91cc?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
