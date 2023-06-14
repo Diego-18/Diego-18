@@ -101,11 +101,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Como aplicar los principios S.O.L.I.D. día a día como desarrollador de software?](https://diegochavez-dc.medium.com/como-aplicar-los-principios-s-o-l-i-d-d%C3%ADa-a-d%C3%ADa-como-desarrollador-de-software-b6617c1f37aa?source=rss-76dafd37da4d------2)
 - [PRINCIPIOS S.O.L.I.D. DEL DESARROLLO DE SOFTWARE](https://diegochavez-dc.medium.com/principios-s-o-l-i-d-del-desarrollo-de-software-a221956d3a18?source=rss-76dafd37da4d------2)
 - [LoopBack 4: framework de NodeJS](https://diegochavez-dc.medium.com/loopback-4-framework-de-nodejs-45988147a96b?source=rss-76dafd37da4d------2)
 - [Laravel Telescope, herramienta para monitoreo de proyectos](https://diegochavez-dc.medium.com/laravel-telescope-herramienta-para-monitoreo-de-proyectos-59146609765e?source=rss-76dafd37da4d------2)
 - [Repository: patrón de diseño para Laravel.](https://diegochavez-dc.medium.com/repository-patr%C3%B3n-de-dise%C3%B1o-para-laravel-d4c8b2985b6d?source=rss-76dafd37da4d------2)
-- [Active Record: patrón de diseño en Laravel.](https://diegochavez-dc.medium.com/active-record-patr%C3%B3n-de-dise%C3%B1o-en-laravel-1236dc550c94?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
