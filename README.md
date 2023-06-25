@@ -101,11 +101,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Embellece tu Experiencia en la Terminal de Windows con Oh My Posh](https://diegochavez-dc.medium.com/embellece-tu-experiencia-en-la-terminal-de-windows-con-oh-my-posh-ab4cab28fe9b?source=rss-76dafd37da4d------2)
 - [Dockerizando el servicio de MySQL: Simplificando la gestión de bases de datos en contenedores](https://diegochavez-dc.medium.com/dockerizando-el-servicio-de-mysql-simplificando-la-gesti%C3%B3n-de-bases-de-datos-en-contenedores-b94edd2d80bd?source=rss-76dafd37da4d------2)
 - [Crear conexión en DBeaver con un contenedor de MySQL en Docker](https://diegochavez-dc.medium.com/crear-conexi%C3%B3n-en-dbeaver-con-un-contenedor-de-mysql-en-docker-6aed921208be?source=rss-76dafd37da4d------2)
 - [Configurar MySQL en un entorno virtual con Laravel Homestead](https://diegochavez-dc.medium.com/configurar-mysql-en-un-entorno-virtual-con-laravel-homestead-7b62e26af885?source=rss-76dafd37da4d------2)
 - [Creando un entorno virtual con Laravel Homestead: ¡Potencia tu desarrollo web!](https://diegochavez-dc.medium.com/creando-un-entorno-virtual-con-laravel-homestead-potencia-tu-desarrollo-web-5e14afa72f02?source=rss-76dafd37da4d------2)
-- [Desbloquea tu potencial social: 14 estrategias efectivas para ser más sociable y comunicativo.](https://diegochavez-dc.medium.com/desbloquea-tu-potencial-social-14-estrategias-efectivas-para-ser-m%C3%A1s-sociable-y-comunicativo-cf356a13619b?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
