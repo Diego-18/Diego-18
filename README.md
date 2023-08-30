@@ -102,11 +102,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
+- [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
 - [SOAP: El protocolo confiable para la comunicación empresarial.](https://diegochavez-dc.medium.com/soap-el-protocolo-confiable-para-la-comunicaci%C3%B3n-empresarial-34b847dc5ff1?source=rss-76dafd37da4d------2)
 - [Dominando la gestión de contenedores con Dockerfiles y Docker Compose](https://diegochavez-dc.medium.com/dominando-la-gesti%C3%B3n-de-contenedores-con-dockerfiles-y-docker-compose-330ea4b7c3f6?source=rss-76dafd37da4d------2)
 - [DOMINA DOCKER: Comandos Básicos para una Gestión Eficiente](https://diegochavez-dc.medium.com/domina-docker-comandos-b%C3%A1sicos-para-una-gesti%C3%B3n-eficiente-9ecbf86d4403?source=rss-76dafd37da4d------2)
-- [Dominando el Desarrollo Dirigido por Pruebas &lpar;TDD&rpar;: Construyendo software de manera robusta y…](https://diegochavez-dc.medium.com/dominando-el-desarrollo-dirigido-por-pruebas-tdd-construyendo-software-de-manera-robusta-y-20eb0724b906?source=rss-76dafd37da4d------2)
-- [EL PODER TRANSFORMADOR DE DOCKER: Conceptos básicos que debes conocer.](https://diegochavez-dc.medium.com/el-poder-transformador-de-docker-conceptos-b%C3%A1sicos-que-debes-conocer-para-usar-docker-d72cc9ccfc54?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
