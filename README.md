@@ -102,11 +102,11 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Guía Completa para Configurar una API de Laravel desde Cero en un Servidor Apache: Paso a Paso](https://diegochavez-dc.medium.com/gu%C3%ADa-completa-para-configurar-una-api-de-laravel-desde-cero-en-un-servidor-apache-paso-a-paso-60298e89b8e5?source=rss-76dafd37da4d------2)
 - [Domina Node.js con Maestría: Guía Completa para Instalar nvm en Linux y Windows](https://diegochavez-dc.medium.com/domina-node-js-con-maestr%C3%ADa-gu%C3%ADa-completa-para-instalar-nvm-en-linux-y-windows-f0d476c382f8?source=rss-76dafd37da4d------2)
 - [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
 - [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
 - [SOAP: El protocolo confiable para la comunicación empresarial.](https://diegochavez-dc.medium.com/soap-el-protocolo-confiable-para-la-comunicaci%C3%B3n-empresarial-34b847dc5ff1?source=rss-76dafd37da4d------2)
-- [Dominando la gestión de contenedores con Dockerfiles y Docker Compose](https://diegochavez-dc.medium.com/dominando-la-gesti%C3%B3n-de-contenedores-con-dockerfiles-y-docker-compose-330ea4b7c3f6?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
