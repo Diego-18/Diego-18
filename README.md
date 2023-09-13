@@ -73,7 +73,7 @@
 
 [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)][jest]
 
-### Devops
+### Devops & Cloud
 
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)][heroku]
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)][netlify]
@@ -82,6 +82,7 @@
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)][apache]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][linux]
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][Docker]
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)][Azure]
 
 ### Work Environment
 
@@ -186,3 +187,4 @@
 [eslint]: https://eslint.org/
 [sonarqube]: https://docs.sonarqube.org/
 [Docker]: https://www.docker.com/
+[Azure]: https://azure.microsoft.com/es-mx/explore/
