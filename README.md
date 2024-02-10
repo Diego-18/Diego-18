@@ -113,9 +113,10 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 📚​ Last Posts
-
 ---
+### [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+
+Last Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Habilitar una API de Laravel automáticamente en una VM  con Apache](https://diegochavez-dc.medium.com/habilitar-una-api-de-laravel-autom%C3%A1ticamente-en-una-vm-con-apache-bf74a18748d7?source=rss-76dafd37da4d------2)
@@ -127,29 +128,31 @@
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
-### 📹​​ Last Videos
-
 ---
+### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube] 
+
+Last Videos
 
 <table>
     <tr>
         <!-- YT:START --><td> <a href="https://www.youtube.com/watch?v=f57iIs9BJ8A"> <img src="https://i.ytimg.com/vi/f57iIs9BJ8A/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=t8CEl7q4ImY"> <img src="https://i.ytimg.com/vi/t8CEl7q4ImY/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=TauN2kRRSCA"> <img src="https://i.ytimg.com/vi/TauN2kRRSCA/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=_2vYJZ-hGyA"> <img src="https://i.ytimg.com/vi/_2vYJZ-hGyA/mqdefault.jpg"> </a> <br/> 📅​ Jul 9, 2023 </td><!-- YT:END -->
     </tr>
 </table>
+
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
 ### Connect with me
 
 ---
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=lin[linkedin]kedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+
 
 ### 🎧​ I love music! | Spotify Playing
 
