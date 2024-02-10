@@ -1,8 +1,10 @@
 <p align="center">
     <a href="https://diegochavez-dc.com" target="_blank">
-        <img src="img/logos/DC.jpg" with="100" height="100">
+        <img src="img/logos/DC.jpg" with="100" height="100" />
     </a>
 </p>
+
+
 
 ```shell
  {
