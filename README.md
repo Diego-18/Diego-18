@@ -5,18 +5,12 @@
     <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-
-
-
-
 ```shell
  {
    “role” : “Software Engineer | Web Developer”,
  }
 ```
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Diego-18&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Diego-18&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### 🏆 &nbsp;GitHub Analytics
 
