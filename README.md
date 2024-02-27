@@ -34,6 +34,13 @@
         </a>
     </td>
   </tr>
+    <tr>
+        <td colspan="2" valign="top" align="center">
+          <a href="https://github.com/Diego-18/Diego-18">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-18&theme=algolia&hide_border=true)](https://github.com/Diego-18" alt="Bharat's GitHub Stats Graph"/>
+</a>
+      </td>
+    </tr>
 </table>
 
 <!-- <p align="center">
