@@ -11,6 +11,9 @@
    “role” : “Software Engineer | Web Developer”,
  }
 ```
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Diego-18&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
 ### 🏆 Github Stats
 
@@ -70,6 +73,7 @@
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)][express]
 
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)][socket]
+[![Pusher](https://img.shields.io/badge/pusher-300D4F?style=for-the-badge&logo=pusher&badgeColor=300D4F)][pusher]
 
 ### 📌 Data Base
 
@@ -202,6 +206,7 @@ Last Videos
 [socket]: https://socket.io/
 [jest]: https://jestjs.io/
 [google_cloud]: https://cloud.google.com/
+[pusher]: https://pusher.com/
 [apache]: https://httpd.apache.org/
 [linux]: https://www.linux.org/
 [markdown]: https://markdown.es/
