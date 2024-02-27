@@ -32,7 +32,7 @@
     </td>
     <td valign="top">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-18&layout=compact&langs_count=8&theme=algolia"/>
+            <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-18&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
             <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" /> -->
         </a>
     </td>
@@ -40,7 +40,7 @@
     <tr>
         <td colspan="2" valign="top" align="center">
           <a href="https://github.com/Diego-18/Diego-18">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-18&theme=algolia&hide_border=true)](https://github.com/Diego-18" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-18&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Diego-18" alt="Bharat's GitHub Stats Graph"/>
 </a>
       </td>
     </tr>
