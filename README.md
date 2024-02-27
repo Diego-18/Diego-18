@@ -15,20 +15,22 @@
   <img src="https://visitcount.itsvg.in/api?id=Diego-18&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
 
-### 🏆 Github Stats
+### 🏆 &nbsp;GitHub Analytics
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
+            <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Diego-18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+            <!-- <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" /> -->
         </a>
     </td>
     <td valign="top">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
+            <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-18&layout=compact&langs_count=8&theme=algolia"/>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" /> -->
         </a>
     </td>
   </tr>
