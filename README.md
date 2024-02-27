@@ -148,9 +148,11 @@ Last Videos
     </tr>
 </table>
 
+<!-- [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1) -->
+
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
 
-### Connect with me
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> Connect with me
 
 ---
 
@@ -166,6 +168,7 @@ Last Videos
 ### 🎧​ I love music! | Spotify Playing
 
 ---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
 
