@@ -10,6 +10,7 @@
    “role” : “Software Engineer | Web Developer”,
  }
 ```
+
 [![](https://visitcount.itsvg.in/api?id=Diego-18&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### 🏆 &nbsp;GitHub Analytics
@@ -127,22 +128,25 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
 ### [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 
 Last Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Habilitar una API de Laravel automáticamente en una VM  con Apache](https://diegochavez-dc.medium.com/habilitar-una-api-de-laravel-autom%C3%A1ticamente-en-una-vm-con-apache-bf74a18748d7?source=rss-76dafd37da4d------2)
-- [Guía Completa para Configurar una API de Laravel desde Cero en un Servidor Apache: Paso a Paso](https://diegochavez-dc.medium.com/gu%C3%ADa-completa-para-configurar-una-api-de-laravel-desde-cero-en-un-servidor-apache-paso-a-paso-60298e89b8e5?source=rss-76dafd37da4d------2)
-- [Domina Node.js con Maestría: Guía Completa para Instalar nvm en Linux y Windows](https://diegochavez-dc.medium.com/domina-node-js-con-maestr%C3%ADa-gu%C3%ADa-completa-para-instalar-nvm-en-linux-y-windows-f0d476c382f8?source=rss-76dafd37da4d------2)
-- [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
-- [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
+
+-   [Habilitar una API de Laravel automáticamente en una VM con Apache](https://diegochavez-dc.medium.com/habilitar-una-api-de-laravel-autom%C3%A1ticamente-en-una-vm-con-apache-bf74a18748d7?source=rss-76dafd37da4d------2)
+-   [Guía Completa para Configurar una API de Laravel desde Cero en un Servidor Apache: Paso a Paso](https://diegochavez-dc.medium.com/gu%C3%ADa-completa-para-configurar-una-api-de-laravel-desde-cero-en-un-servidor-apache-paso-a-paso-60298e89b8e5?source=rss-76dafd37da4d------2)
+-   [Domina Node.js con Maestría: Guía Completa para Instalar nvm en Linux y Windows](https://diegochavez-dc.medium.com/domina-node-js-con-maestr%C3%ADa-gu%C3%ADa-completa-para-instalar-nvm-en-linux-y-windows-f0d476c382f8?source=rss-76dafd37da4d------2)
+-   [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
+-   [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
 
 ---
-### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube] 
+
+### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 
 Last Videos
 
@@ -152,6 +156,10 @@ Last Videos
     </tr>
 </table>
 
+<!-- LINKEDIN:START -->
+
+<!-- LINKEDIN:END -->
+
 <!-- [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1) -->
 
 <p align="right"><a href="https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA">➡️ More Videos</a></p>
@@ -160,19 +168,18 @@ Last Videos
 
 ---
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)][twitter]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
+
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok] -->
-
-
 
 ### 🎧​ I love music! | Spotify Playing
 
 ---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
@@ -182,7 +189,6 @@ Last Videos
 [twitter]: https://twitter.com/diego_chavez_dc
 [facebook]: https://www.facebook.com/d.j.c.c.20
 [instagram]: https://www.instagram.com/diego.chavez.dc
-[tiktok]: https://www.tiktok.com/@diego.chavez.dc
 [hackerrank]: https://www.hackerrank.com/ingdiegochavez18
 [youtube]: https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA
 
@@ -208,7 +214,6 @@ Last Videos
 [npm]: https://www.npmjs.com/
 [postman]: https://www.getpostman.com/
 [yarn]: https://yarnpkg.com/
-[heroku]: https://www.heroku.com/
 [netlify]: https://www.netlify.com/
 [vite]: https://vitejs.dev/
 [nuxt]: https://nuxtjs.org/
