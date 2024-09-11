@@ -41,91 +41,100 @@
     </tr>
 </table>
 
-<!-- <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Diego-18&show_icons=true&count_private=true" alt="Diego-18" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-18&show_icons=true&locale=en&count_private=true" alt="Diego-18" />
-    </a>
-</p> -->
+<h3 align="center">
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ Tech & Tools
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+</h3>
 
-<!-- ### 🎯​Principal Stack
+<div align="center" style="witdh:100%"> 
+ <table>
+  <tr>
+   <td valign="center" width="100px"><b>📌 Front-End<b></td>
+   <td valign="center" width="100px"><b>📌 Back-End<b></td>
+   <td valign="center" width="100px"><b>📌 Data Base<b></td>
+  </tr>
+  <tr>
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
+        <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="TypeScript logo" title="TypeScript" height="30" />
+        <img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="30" />
+        <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=00DC82" alt="Nuxt.js logo" title="Nuxt.js" height="30" />
+        <img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=AEDDFF" alt="Vuetify logo" title="Vuetify" height="30" />
+        <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />
+        <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" />
+        <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="30" />
+        <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />
+        <img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="30" />
+   </td>    
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="30" />
+        <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" />
+        <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=6DA55F" alt="Node.js logo" title="Node.js" height="30" />
+        <img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="30" />
+        <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=61DAFB" alt="Express.js logo" title="Express.js" height="30" />
+        <img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=FFFFFF" alt="Socket.io logo" title="Socket.io" height="30" />
+        <img src="https://img.shields.io/badge/Pusher-282C34?logo=pusher&logoColor=300D4F" alt="Pusher logo" title="Pusher" height="30" />
+   </td>
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00f" alt="MySQL logo" title="MySQL" height="30" />
+        <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=316192" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
+   </td>
+  </tr>
+ </table/>
 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)][node]
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)][nestjs]
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)][vue]
-[![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)][nuxt]
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][mysql]](url) -->
+ <table>
+  <tr>
+   <td valign="center" width="100px"><b>📌 Testing<b></td>
+   <td valign="center" width="100px"><b>📌 Devops & Cloud<b></td>
+   <td valign="center" width="100px"><b>📌 Work Environment<b></td>
+  </tr>
+  <tr>
+   <td valign="center" align="center" width="400px">
+       <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="30" /> 
+   </td>    
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="30" />
+        <img src="https://img.shields.io/badge/Github%20actions-282C34?logo=githubactions&logoColor=2671E5" alt="GitHub Actions logo" title="GitHub Actions" height="30" />
+        <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0072C6" alt="Azure logo" title="Azure" height="30" />
+        <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="30" />
+        <img src="https://img.shields.io/badge/GoogleCloud-282C34?logo=google-cloud&logoColor=4285F4" alt="Google Cloud logo" title="Google Cloud" height="30" />
+        <img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=D42029" alt="Apache logo" title="Apache" height="30" />
 
-### 📌 Front-End
+   </td>
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05033" alt="Git logo" title="Git" height="30" />
+        <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=121011" alt="GitHub logo" title="GitHub" height="30" />
+        <img src="https://img.shields.io/badge/Copilot-282C34?logo=githubcopilot&logoColor=white" alt="GitHub Copilot logo" title="GitHub Copilot" height="30" />
+        <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=000000" alt="NPM logo" title="NPM" height="30" />
+        <img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" alt="Yarn logo" title="Yarn" height="30" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=0078D7" alt="VSCode logo" title="VSCode" height="30" />
+        <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" />
+        <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=000000" alt="Markdown logo" title="Markdown" height="30" />
+        <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B3263" alt="ESLint logo" title="ESLint" height="30" />
+        <img src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqube&logoColor=4E9BCD" alt="SonarQube logo" title="SonarQube" height="30" />
+        <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=white" alt="Swagger logo" title="Swagger" height="30" />
+   </td>
+  </tr>
+ </table/>
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)][javascript]
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)][typescript]
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)][vue]
-[![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)][nuxt]
-[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)][vuetify]
-
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][html5]
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][css3]
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)][bootstrap]
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][react]
-[![VITE](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=%23FFF)][vite]
-
-### 📌 Back-End
-
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)][php]
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)][laravel]
-
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)][node]
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)][nestjs]
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)][express]
-
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)][socket]
-[![Pusher](https://img.shields.io/badge/pusher-300D4F?style=for-the-badge&logo=pusher&badgeColor=300D4F)][pusher]
-
-### 📌 Data Base
-
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][mysql]
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)][postgres]
-
-### 📌 Testing
-
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)][jest]
-
-### 📌 Devops & Cloud
-
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][Docker]
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)][Azure]
-
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)][netlify]
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)][google_cloud]
-
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)][apache]
-
-### 📌 Work Environment
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][git]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
-![GithubCopilot](https://img.shields.io/badge/github_copilot-black.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)][npm]
-[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)][yarn]
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][vscode]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)][postman]
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)][markdown]
-[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][eslint]
-[![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)][sonarqube]
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][linux]
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)][linuxmint]
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  <table>
+  <tr>
+   <td valign="center" width="100px"><b>📌 OS<b></td>
+  </tr>
+  <tr>
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="30" />
+        <img src="https://img.shields.io/badge/Linux%20Mint-282C34?logo=linux-mint&logoColor=87CF3E" alt="Linux Mint logo" title="Linux Mint" height="30" />
+        <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="30" />
+        <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D70A53" alt="Debian logo" title="Debian" height="30" />
+        <img src="https://img.shields.io/badge/Fedora-282C34?logo=fedora&logoColor=294172" alt="Fedora logo" title="Fedora" height="30" />
+        <img src="https://img.shields.io/badge/Microsoft-282C34?logo=microsoft&logoColor=0078D4" alt="Microsoft logo" title="Microsoft" height="30" />
+        <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="30" />
+   </td>
+  </tr>
+ </table/>
+</div/>
 
 ---
 
