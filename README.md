@@ -136,6 +136,38 @@
  </table/>
 </div/>
 
+<h3 align="center">
+ <!-- <img src="./img/badges/certificate_badge.svg" height="5"/> -->
+ Badges
+</h3>
+
+<div align="center" style="witdh:100%">
+    <table>
+  <tr>
+   <td valign="center" width="100px"><b>📌 HackerRank<b></td>
+   <td valign="center" width="100px"><b>📌 Certiprof<b></td>
+  <tr>
+   <td valign="center" align="center">
+       <img src="./img/badges/Badges.png" alt="sql" title="sql-hr" height="30" />
+   </td>
+   <td valign="center" align="center">
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="./img/badges/CertiProf-Badge-LLL.png" alt="lifelong-learning" title="lifelong-learning" height="100" width="100" />
+        <p>Lifelong Learning!</p>
+      </div>
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="./img/badges/CertiProf-Badge-SFPC.png" alt="scrum-foundation" title="scrum-foundation" height="100" width="100" />
+        <p>Scrum Foundation Professional</p>
+      </div>
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="./img/badges/CertiProf-Badge-BIFPC.png" alt="bi-foundation" title="bi-foundation" height="100" width="100" />
+        <p>Business Intelligence Foundation Professional</p>
+      </div>
+    </td>
+  </tr>
+ </table/>
+</div>
+
 ---
 
 ### [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
@@ -143,11 +175,12 @@
 Last Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Habilitar una API de Laravel automáticamente en una VM  con Apache](https://diegochavez-dc.medium.com/habilitar-una-api-de-laravel-autom%C3%A1ticamente-en-una-vm-con-apache-bf74a18748d7?source=rss-76dafd37da4d------2)
-- [Guía Completa para Configurar una API de Laravel desde Cero en un Servidor Apache: Paso a Paso](https://diegochavez-dc.medium.com/gu%C3%ADa-completa-para-configurar-una-api-de-laravel-desde-cero-en-un-servidor-apache-paso-a-paso-60298e89b8e5?source=rss-76dafd37da4d------2)
-- [Domina Node.js con Maestría: Guía Completa para Instalar nvm en Linux y Windows](https://diegochavez-dc.medium.com/domina-node-js-con-maestr%C3%ADa-gu%C3%ADa-completa-para-instalar-nvm-en-linux-y-windows-f0d476c382f8?source=rss-76dafd37da4d------2)
-- [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
-- [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
+
+-   [Habilitar una API de Laravel automáticamente en una VM con Apache](https://diegochavez-dc.medium.com/habilitar-una-api-de-laravel-autom%C3%A1ticamente-en-una-vm-con-apache-bf74a18748d7?source=rss-76dafd37da4d------2)
+-   [Guía Completa para Configurar una API de Laravel desde Cero en un Servidor Apache: Paso a Paso](https://diegochavez-dc.medium.com/gu%C3%ADa-completa-para-configurar-una-api-de-laravel-desde-cero-en-un-servidor-apache-paso-a-paso-60298e89b8e5?source=rss-76dafd37da4d------2)
+-   [Domina Node.js con Maestría: Guía Completa para Instalar nvm en Linux y Windows](https://diegochavez-dc.medium.com/domina-node-js-con-maestr%C3%ADa-gu%C3%ADa-completa-para-instalar-nvm-en-linux-y-windows-f0d476c382f8?source=rss-76dafd37da4d------2)
+-   [Desbloqueando el Poder Colaborativo: Cómo tanto las empresas como los equipos de desarrollo pueden…](https://diegochavez-dc.medium.com/desbloqueando-el-poder-colaborativo-c%C3%B3mo-tanto-las-empresas-como-los-equipos-de-desarrollo-pueden-dc4874f7d402?source=rss-76dafd37da4d------2)
+-   [Desentrañando las opciones de Azure App Service: El arte de elegir el enfoque perfecto para tu…](https://diegochavez-dc.medium.com/desentra%C3%B1ando-las-opciones-de-azure-app-service-el-arte-de-elegir-el-enfoque-perfecto-para-tu-11a325a1eb10?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
@@ -201,40 +234,3 @@ Last Videos
 [youtube]: https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA
 
 <!--    Technologies     -->
-
-[node]: https://nodejs.org/
-[express]: https://expressjs.com/
-[react]: https://reactjs.org/
-[mysql]: https://www.mysql.com/
-[html5]: https://www.w3schools.com/html/
-[css3]: https://www.w3schools.com/css/
-[bootstrap]: https://getbootstrap.com/
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[vue]: https://vuejs.org/
-[typescript]: https://www.typescriptlang.org/
-[php]: https://www.php.net/
-[laravel]: https://laravel.com/
-[postgres]: https://www.postgresql.org/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[linuxmint]: https://www.linuxmint.com/
-[vscode]: https://code.visualstudio.com/
-[npm]: https://www.npmjs.com/
-[postman]: https://www.getpostman.com/
-[yarn]: https://yarnpkg.com/
-[netlify]: https://www.netlify.com/
-[vite]: https://vitejs.dev/
-[nuxt]: https://nuxtjs.org/
-[vuetify]: https://vuetifyjs.com/en/
-[socket]: https://socket.io/
-[jest]: https://jestjs.io/
-[google_cloud]: https://cloud.google.com/
-[pusher]: https://pusher.com/
-[apache]: https://httpd.apache.org/
-[linux]: https://www.linux.org/
-[markdown]: https://markdown.es/
-[eslint]: https://eslint.org/
-[sonarqube]: https://docs.sonarqube.org/
-[Docker]: https://www.docker.com/
-[Azure]: https://azure.microsoft.com/es-mx/explore/
-[nestjs]: https://nestjs.com/
