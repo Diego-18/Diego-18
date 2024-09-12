@@ -42,12 +42,12 @@
 </table>
 
 <h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
  Tech & Tools
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>
 
-<div align="center" style="witdh:100%"> 
+<div align="center" style="witdh:100%">
  <table>
   <tr>
    <td valign="center" width="100px"><b>📌 Front-End<b></td>
@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="30" />
         <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />
         <img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="30" />
-   </td>    
+   </td>
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="30" />
         <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" />
@@ -77,8 +77,8 @@
         <img src="https://img.shields.io/badge/Pusher-282C34?logo=pusher&logoColor=300D4F" alt="Pusher logo" title="Pusher" height="30" />
    </td>
    <td valign="center" align="center" width="400px">
-        <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00f" alt="MySQL logo" title="MySQL" height="30" />
-        <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=316192" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
+        <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=fff" alt="MySQL logo" title="MySQL" height="30" />
+        <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=fff" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
    </td>
   </tr>
  </table/>
@@ -91,8 +91,8 @@
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-       <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="30" /> 
-   </td>    
+       <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="30" />
+   </td>
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="30" />
         <img src="https://img.shields.io/badge/Github%20actions-282C34?logo=githubactions&logoColor=2671E5" alt="GitHub Actions logo" title="GitHub Actions" height="30" />
@@ -104,14 +104,14 @@
    </td>
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05033" alt="Git logo" title="Git" height="30" />
-        <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=121011" alt="GitHub logo" title="GitHub" height="30" />
+        <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=fff" alt="GitHub logo" title="GitHub" height="30" />
         <img src="https://img.shields.io/badge/Copilot-282C34?logo=githubcopilot&logoColor=white" alt="GitHub Copilot logo" title="GitHub Copilot" height="30" />
-        <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=000000" alt="NPM logo" title="NPM" height="30" />
+        <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=fff" alt="NPM logo" title="NPM" height="30" />
         <img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" alt="Yarn logo" title="Yarn" height="30" />
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=0078D7" alt="VSCode logo" title="VSCode" height="30" />
         <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" />
-        <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=000000" alt="Markdown logo" title="Markdown" height="30" />
-        <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B3263" alt="ESLint logo" title="ESLint" height="30" />
+        <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=fff" alt="Markdown logo" title="Markdown" height="30" />
+        <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=fff" alt="ESLint logo" title="ESLint" height="30" />
         <img src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqube&logoColor=4E9BCD" alt="SonarQube logo" title="SonarQube" height="30" />
         <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=white" alt="Swagger logo" title="Swagger" height="30" />
    </td>
