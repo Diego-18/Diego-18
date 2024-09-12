@@ -147,19 +147,19 @@
    <td valign="center" width="100px"><b>📌 HackerRank<b></td>
    <td valign="center" width="100px"><b>📌 Certiprof<b></td>
   <tr>
-   <td valign="center" align="center">
-       <img src="./img/badges/Badges.png" alt="sql" title="sql-hr" height="30" />
+   <td valign="center" align="center" width="400px">
+       <img src="./img/badges/Badges.png" alt="sql" title="sql-hr" height="100" width="100" />
    </td>
-   <td valign="center" align="center">
-      <div style="display: inline-block; text-align: center; margin: 10px;">
+   <td valign="center" align="center" width="400px">
+      <div>
         <img src="./img/badges/CertiProf-Badge-LLL.png" alt="lifelong-learning" title="lifelong-learning" height="100" width="100" />
         <p>Lifelong Learning!</p>
       </div>
-      <div style="display: inline-block; text-align: center; margin: 10px;">
+      <div>
         <img src="./img/badges/CertiProf-Badge-SFPC.png" alt="scrum-foundation" title="scrum-foundation" height="100" width="100" />
         <p>Scrum Foundation Professional</p>
       </div>
-      <div style="display: inline-block; text-align: center; margin: 10px;">
+      <div>
         <img src="./img/badges/CertiProf-Badge-BIFPC.png" alt="bi-foundation" title="bi-foundation" height="100" width="100" />
         <p>Business Intelligence Foundation Professional</p>
       </div>
