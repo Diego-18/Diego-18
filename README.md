@@ -97,6 +97,7 @@
         <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="30" />
         <img src="https://img.shields.io/badge/Github%20actions-282C34?logo=githubactions&logoColor=2671E5" alt="GitHub Actions logo" title="GitHub Actions" height="30" />
         <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0072C6" alt="Azure logo" title="Azure" height="30" />
+        <img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=0072C6" alt="AWS logo" title="AWS" height="30" />
         <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="30" />
         <img src="https://img.shields.io/badge/GoogleCloud-282C34?logo=google-cloud&logoColor=4285F4" alt="Google Cloud logo" title="Google Cloud" height="30" />
         <img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=D42029" alt="Apache logo" title="Apache" height="30" />
