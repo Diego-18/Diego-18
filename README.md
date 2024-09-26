@@ -164,6 +164,10 @@
         <img src="./img/badges/CertiProf-Badge-BIFPC.png" alt="bi-foundation" title="bi-foundation" height="100" width="100" />
         <p>Business Intelligence Foundation Professional</p>
       </div>
+      <div>
+        <img src="./img/badges/CertiProf-Badge-DSPC.png" alt="ds-foundation" title="ds-foundation" height="100" width="100" />
+        <p>Design Sprint Proffesional</p>
+      </div>
     </td>
   </tr>
  </table/>
