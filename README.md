@@ -96,12 +96,11 @@
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="30" />
         <img src="https://img.shields.io/badge/Github%20actions-282C34?logo=githubactions&logoColor=2671E5" alt="GitHub Actions logo" title="GitHub Actions" height="30" />
-        <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0072C6" alt="Azure logo" title="Azure" height="30" />
-        <img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=0072C6" alt="AWS logo" title="AWS" height="30" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-282C34?logo=msazure&logoColor=white" alt="Azure logo" title="Azure" height="30" />
+        <img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-web-services&logoColor=fff" alt="AWS logo" title="AWS" height="30" />
         <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="30" />
         <img src="https://img.shields.io/badge/GoogleCloud-282C34?logo=google-cloud&logoColor=4285F4" alt="Google Cloud logo" title="Google Cloud" height="30" />
         <img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=D42029" alt="Apache logo" title="Apache" height="30" />
-
    </td>
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05033" alt="Git logo" title="Git" height="30" />
@@ -109,7 +108,7 @@
         <img src="https://img.shields.io/badge/Copilot-282C34?logo=githubcopilot&logoColor=white" alt="GitHub Copilot logo" title="GitHub Copilot" height="30" />
         <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=fff" alt="NPM logo" title="NPM" height="30" />
         <img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" alt="Yarn logo" title="Yarn" height="30" />
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=0078D7" alt="VSCode logo" title="VSCode" height="30" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-282C34.svg?logo=vsc&logoColor=fff" alt="VSCode logo" title="VSCode" height="30" />
         <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" />
         <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=fff" alt="Markdown logo" title="Markdown" height="30" />
         <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=fff" alt="ESLint logo" title="ESLint" height="30" />
@@ -130,8 +129,8 @@
         <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="30" />
         <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D70A53" alt="Debian logo" title="Debian" height="30" />
         <img src="https://img.shields.io/badge/Fedora-282C34?logo=fedora&logoColor=294172" alt="Fedora logo" title="Fedora" height="30" />
-        <img src="https://img.shields.io/badge/Microsoft-282C34?logo=microsoft&logoColor=0078D4" alt="Microsoft logo" title="Microsoft" height="30" />
-        <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="30" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft-282C34?logo=windows11&logoColor=white" alt="Microsoft logo" title="Microsoft" height="30" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34?logo=windows11&logoColor=white" alt="Windows logo" title="Windows" height="30" />
    </td>
   </tr>
  </table/>
@@ -222,7 +221,6 @@ Last Videos
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok] -->
 
 ### 🎧​ I love music! | Spotify Playing
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
