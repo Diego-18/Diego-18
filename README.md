@@ -75,6 +75,7 @@
         <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=61DAFB" alt="Express.js logo" title="Express.js" height="30" />
         <img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=FFFFFF" alt="Socket.io logo" title="Socket.io" height="30" />
         <img src="https://img.shields.io/badge/Pusher-282C34?logo=pusher&logoColor=300D4F" alt="Pusher logo" title="Pusher" height="30" />
+        <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=fff" alt="Python logo" title="Python" height="30" />
    </td>
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=fff" alt="MySQL logo" title="MySQL" height="30" />
@@ -96,7 +97,7 @@
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=0db7ed" alt="Docker logo" title="Docker" height="30" />
         <img src="https://img.shields.io/badge/Github%20actions-282C34?logo=githubactions&logoColor=2671E5" alt="GitHub Actions logo" title="GitHub Actions" height="30" />
-        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-282C34?logo=msazure&logoColor=white" alt="Azure logo" title="Azure" height="30" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-282C34?logo=msazure&logoColor=0db7ed" alt="Azure logo" title="Azure" height="30" />
         <img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-web-services&logoColor=fff" alt="AWS logo" title="AWS" height="30" />
         <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="30" />
         <img src="https://img.shields.io/badge/GoogleCloud-282C34?logo=google-cloud&logoColor=4285F4" alt="Google Cloud logo" title="Google Cloud" height="30" />
