@@ -52,7 +52,7 @@
   <tr>
    <td valign="center" width="100px"><b>📌 Front-End<b></td>
    <td valign="center" width="100px"><b>📌 Back-End<b></td>
-   <td valign="center" width="100px"><b>📌 Data Base<b></td>
+   <td valign="center" width="100px"><b>📌 Data Base / BI <b></td>
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
