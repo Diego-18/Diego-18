@@ -80,6 +80,7 @@
    <td valign="center" align="center" width="400px">
         <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=fff" alt="MySQL logo" title="MySQL" height="30" />
         <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=fff" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
+        <img src="https://img.shields.io/badge/Power_BI-282C34?logo=powerbi&logoColor=black" alt="PowerBI logo" title="PowerBI" height="30" />
    </td>
   </tr>
  </table/>
