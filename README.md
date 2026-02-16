@@ -81,6 +81,8 @@
         <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=fff" alt="MySQL logo" title="MySQL" height="30" />
         <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=fff" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
         <img src="https://img.shields.io/badge/Power_BI-282C34?logo=powerbi&logoColor=black" alt="PowerBI logo" title="PowerBI" height="30" />
+        <img src="https://img.shields.io/badge/TypeORM-282C34.svg?style=for-the-badge&logo=typeorm&logoColor=fff" alt="TypeORM logo" title="TypeORM" height="30" />
+        <img src="https://img.shields.io/badge/Sequelize-282C34?style=for-the-badge&logo=Sequelize&logoColor=fff" alt="Sequalize logo" title="Sequalize" height="30" />
    </td>
   </tr>
  </table/>
@@ -117,13 +119,18 @@
         <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=fff" alt="ESLint logo" title="ESLint" height="30" />
         <img src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqube&logoColor=4E9BCD" alt="SonarQube logo" title="SonarQube" height="30" />
         <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=white" alt="Swagger logo" title="Swagger" height="30" />
+        <img src="https://img.shields.io/badge/warp-282C34?logo=warp&logoColor=white" alt="Warp logo" title="Warp" height="30" />
+
+       
    </td>
   </tr>
  </table/>
 
   <table>
   <tr>
-   <td valign="center" width="100px"><b>📌 OS<b></td>
+   <td valign="center" width="100px"><b>📌 OS </b></td>
+   <td valign="center" width="100px"><b>📌 IaC </b></td>
+   <td valign="center" width="100px"><b>📌 Automatizaciones </b></td>
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
@@ -134,6 +141,30 @@
         <img src="https://img.shields.io/badge/Fedora-282C34?logo=fedora&logoColor=294172" alt="Fedora logo" title="Fedora" height="30" />
         <img src="https://custom-icon-badges.demolab.com/badge/Microsoft-282C34?logo=windows11&logoColor=white" alt="Microsoft logo" title="Microsoft" height="30" />
         <img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34?logo=windows11&logoColor=white" alt="Windows logo" title="Windows" height="30" />
+   </td>
+   <td valign="center" align="center" width="400px">
+       <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=fff" alt="PowerShell logo" title="PowerShell" height="30" />
+       <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=fff" alt="Python logo" title="Python" height="30" />
+       
+   </td>
+   <td valign="center" align="center" width="400px">
+       <img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=fff" alt="n8n logo" title="n8n" height="30" />
+       <img src="https://img.shields.io/badge/Power_Automate-282C34?logo=automate&logoColor=fff" alt="Power Automate logo" title="Power Automate" height="30" />
+   </td>
+  </tr>
+ </table/>
+
+ <table>
+  <tr>
+   <td valign="center" width="100px"><b>📌 Agentes de IA </b></td>
+  </tr>
+  <tr>
+   <td valign="center" align="center" width="400px">
+        <img src="https://img.shields.io/badge/ChatGPT-282C34?logo=openai&logoColor=white" alt="ChatGPT logo" title="ChatGPT" height="30" />
+        <img src="https://img.shields.io/badge/Claude-282C34?logo=claude&logoColor=white" alt="ClaudeIA logo" title="ClaudeIA" height="30" />
+        <img src="https://img.shields.io/badge/Github_Copilot-282C34?logo=github-copilot&logoColor=white" alt="Copilot logo" title="Copilot" height="30" />
+        <img src="https://img.shields.io/badge/Google%20Gemini-282C34?logo=google%20gemini&logoColor=white" alt="Gemini logo" title="Gemini" height="30" />
+        <img src="https://img.shields.io/badge/Perplexity-282C34?logo=perplexity&logoColor=fff" alt="Perplexity logo" title="Perplexity" height="30" />
    </td>
   </tr>
  </table/>
