@@ -224,16 +224,6 @@ Last Posts
 
 ---
 
-### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
-
-Last Videos
-
-<table>
-    <tr>
-        <!-- YT:START --><td> <a href="https://www.youtube.com/watch?v=f57iIs9BJ8A"> <img src="https://i.ytimg.com/vi/f57iIs9BJ8A/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=t8CEl7q4ImY"> <img src="https://i.ytimg.com/vi/t8CEl7q4ImY/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=TauN2kRRSCA"> <img src="https://i.ytimg.com/vi/TauN2kRRSCA/mqdefault.jpg"> </a> <br/> 📅​ Feb 9, 2024 </td><td> <a href="https://www.youtube.com/watch?v=_2vYJZ-hGyA"> <img src="https://i.ytimg.com/vi/_2vYJZ-hGyA/mqdefault.jpg"> </a> <br/> 📅​ Jul 9, 2023 </td><!-- YT:END -->
-    </tr>
-</table>
-
 <!-- LINKEDIN:START -->
 
 <!-- LINKEDIN:END -->
@@ -247,10 +237,8 @@ Last Videos
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)][twitter]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok] -->
 
