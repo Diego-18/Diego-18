@@ -214,7 +214,6 @@
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white)](https://diegochavez-dc.medium.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/diego.chavez.dc)
 [![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/d.j.c.c.20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=58A6FF)](https://diegochavez-dc.com)
 
 <br/>
 
