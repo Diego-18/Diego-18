@@ -254,19 +254,9 @@ Last Videos
 
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok] -->
 
-### 🎧​ I love music! | Spotify Playing
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[![Spotify](https://spotify-now-playing-weld.vercel.app/api/spotify)]()
-
 [medium]: https://diegochavez-dc.medium.com
 [linkedin]: https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6
-[twitter]: https://twitter.com/diego_chavez_dc
 [facebook]: https://www.facebook.com/d.j.c.c.20
 [instagram]: https://www.instagram.com/diego.chavez.dc
-[hackerrank]: https://www.hackerrank.com/ingdiegochavez18
-[youtube]: https://www.youtube.com/channel/UCmEibejCVRl39zJyjsWlXdA
 
 <!--    Technologies     -->
