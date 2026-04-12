@@ -22,16 +22,20 @@
 {
   "nombre"   : "Diego Chavez",
   "rol"      : "Software Architect | Engineer",
-  "enfoque"  : ["System Design", "Scalability", "DevOps", "Cloud"],
-  "stack"    : ["Vue.js", "Laravel", "Node.js", "NestJS"],
+  "enfoque"  : ["System Design", "Scalability", "Cloud", "AI Applied"],
+  "frontend" : ["Vue.js", "Nuxt.js", "React", "TypeScript"],
+  "backend"  : ["Laravel", "Node.js", "NestJS", "Python"],
+  "devops"   : ["Docker", "GitHub Actions", "Azure", "AWS", "GCP"],
+  "ia"       : ["AI Agents", "Automation", "n8n", "Claude", "ChatGPT"],
   "ubicacion": "🌎 Latinoamérica"
 }
 ```
 
 - 🏗️ &nbsp;Diseñando sistemas escalables, resilientes y mantenibles
-- ☁️ &nbsp;Profundizando en arquitecturas cloud-native y microservicios
-- ✍️ &nbsp;Escribo en [Medium](https://diegochavez-dc.medium.com) sobre tech y arquitectura
-- 💬 &nbsp;Pregúntame sobre system design, Vue, Laravel, Node o DevOps
+- 🤖 &nbsp;Construyendo soluciones con **IA aplicada** y agentes inteligentes
+- ☁️ &nbsp;Arquitecturas cloud-native, microservicios y automatización end-to-end
+- ✍️ &nbsp;Escribo en [Medium](https://diegochavez-dc.medium.com) sobre tech, arquitectura e IA
+- 💬 &nbsp;Pregúntame sobre system design, AI agents, DevOps o desarrollo fullstack
 - 📫 &nbsp;Contacto vía [LinkedIn](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6)
 
 </div>
