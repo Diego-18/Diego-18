@@ -26,8 +26,7 @@
   "frontend" : ["Vue.js", "Nuxt.js", "React", "TypeScript"],
   "backend"  : ["Laravel", "Node.js", "NestJS", "Python"],
   "devops"   : ["Docker", "GitHub Actions", "Azure", "AWS", "GCP"],
-  "ia"       : ["AI Agents", "Automation", "n8n", "Claude", "ChatGPT"],
-  "ubicacion": "🌎 Latinoamérica"
+  "ia"       : ["AI Agents", "Automation", "n8n", "Claude", "ChatGPT"]
 }
 ```
 
