@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Diego%20Chavez&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descAlign=50&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Diego%20Chavez&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Engineer&descAlignY=58&descAlign=50&descColor=8B949E" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue.js+%7C+Laravel+%7C+Node.js+%7C+NestJS;DevOps+%7C+Cloud+%7C+Automation;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Architect+%F0%9F%9B%B8;Designing+scalable+%26+resilient+systems;Vue.js+%7C+Laravel+%7C+Node.js+%7C+NestJS;DevOps+%7C+Cloud+%7C+Automation;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,18 +21,17 @@
 ```json
 {
   "nombre"   : "Diego Chavez",
-  "rol"      : "Software Engineer | Web Developer",
-  "enfoque"  : ["Full-Stack", "DevOps", "Cloud"],
+  "rol"      : "Software Architect | Engineer",
+  "enfoque"  : ["System Design", "Scalability", "DevOps", "Cloud"],
   "stack"    : ["Vue.js", "Laravel", "Node.js", "NestJS"],
-  "ubicacion": "🌎 Latinoamérica",
-  "web"      : "diegochavez-dc.com"
+  "ubicacion": "🌎 Latinoamérica"
 }
 ```
 
-- 🔭 &nbsp;Desarrollando soluciones fullstack escalables
-- 🌱 &nbsp;Explorando arquitecturas cloud e IA aplicada
-- ✍️ &nbsp;Escribo en [Medium](https://diegochavez-dc.medium.com) sobre tech
-- 💬 &nbsp;Pregúntame sobre Vue, Laravel, Node o DevOps
+- 🏗️ &nbsp;Diseñando sistemas escalables, resilientes y mantenibles
+- ☁️ &nbsp;Profundizando en arquitecturas cloud-native y microservicios
+- ✍️ &nbsp;Escribo en [Medium](https://diegochavez-dc.medium.com) sobre tech y arquitectura
+- 💬 &nbsp;Pregúntame sobre system design, Vue, Laravel, Node o DevOps
 - 📫 &nbsp;Contacto vía [LinkedIn](https://www.linkedin.com/in/diego-jose-chavez-chirinos-9a7034a6)
 
 </div>
